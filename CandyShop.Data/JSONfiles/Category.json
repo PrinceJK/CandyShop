@@ -1,0 +1,27 @@
+[
+  {
+    "Id": "44426c84-c4f1-4cee-bbe0-ced83f53a222",
+    "Name": "Chocolate Candy",
+    "Description": "Urinary manometry"
+  },
+  {
+    "Id": "b56eecd5-3a6c-4803-a0d1-d91f29138c4c",
+    "Name": "Fruit Candy",
+    "Description": "Dacryocystorhinostomy [DCR]"
+  },
+  {
+    "Id": "6e005087-3094-43bf-8e56-e6bd7310dc0d",
+    "Name": "Gummy Candy",
+    "Description": "Implantation of other internal limb lengthening device"
+  },
+  {
+    "Id": "5e6fa335-0a3e-4695-9428-e4158cf673a2",
+    "Name": "Halloween Candy",
+    "Description": "Closed reduction of fracture with internal fixation, femur"
+  },
+  {
+    "Id": "a734fed3-87f9-4421-bab2-c79fe30bf362",
+    "Name": "Hard Candy",
+    "Description": "Simple excision of other lymphatic structure"
+  }
+]

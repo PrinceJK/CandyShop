@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\bin\Debug\net5.0\CandyShop.Models.deps.json
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\bin\Debug\net5.0\CandyShop.Models.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\bin\Debug\net5.0\ref\CandyShop.Models.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\bin\Debug\net5.0\CandyShop.Models.pdb
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.AssemblyInfo.cs
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\ref\CandyShop.Models.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Models\obj\Debug\net5.0\CandyShop.Models.pdb

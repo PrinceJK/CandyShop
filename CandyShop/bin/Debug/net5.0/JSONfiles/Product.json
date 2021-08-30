@@ -1,0 +1,168 @@
+[
+  {
+    "Id": "21d08500-cd5d-4e76-a54e-81bf037aa99d",
+    "Name": "Assorted Chocolate Candy",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Tortor posuere ac ut consequat. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Lacus sed turpis tincidunt id aliquet risus feugiat in. Viverra aliquet eget sit amet tellus cras adipiscing enim eu.",
+    "Price": 889.79,
+    "ImageUrl": "\\Images\\chocolateCandy.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\chocolateCandy-small.jpg",
+    "IsOnSale": true,
+    "IsInStock": true,
+    "CategoryId": "44426c84-c4f1-4cee-bbe0-ced83f53a222"
+  },
+  {
+    "Id": "a1d4b61f-23a9-4aa6-b645-73a9c6812158",
+    "Name": "Another Assorted Chocolate Candy",
+    "Description": "Venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin. Quisque egestas diam in arcu cursus. Sed viverra tellus in hac. Quis commodo odio aenean sed adipiscing diam donec adipiscing.",
+    "Price": 929.17,
+    "ImageUrl": "\\Images\\chocolateCandy2.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\chocolateCandy2-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": true,
+    "CategoryId": "b56eecd5-3a6c-4803-a0d1-d91f29138c4c"
+  },
+  {
+    "Id": "d77f798f-f544-400a-9b73-2c5f12e60807",
+    "Name": "Another Chocolate Candy",
+    "Description": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Sed faucibus turpis in eu mi bibendum neque egestas. At in tellus integer feugiat scelerisque. Elementum integer enim neque volutpat ac tincidunt.",
+    "Price": 106.03,
+    "ImageUrl": "\\Images\\chocolateCandy3.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\chocolateCandy3-small.jpg",
+    "IsOnSale": true,
+    "IsInStock": false,
+    "CategoryId": "6e005087-3094-43bf-8e56-e6bd7310dc0d"
+  },
+  {
+    "Id": "5cae61c1-07ef-4063-a6c5-c66a4ef3d33e",
+    "Name": "Assorted Fruit Candy",
+    "Description": "Vitae congue eu consequat ac felis donec et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Vel eros donec ac odio. A lacus vestibulum sed arcu non odio euismod lacinia at. Nisl suscipit adipiscing bibendum est ultricies integer. Nec tincidunt praesent semper feugiat nibh.",
+    "Price": 685.99,
+    "ImageUrl": "\\Images\\fruitCandy.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\fruitCandy-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": true,
+    "CategoryId": "5e6fa335-0a3e-4695-9428-e4158cf673a2"
+  },
+  {
+    "Id": "53e629b1-1573-427d-aed5-1cd0ee1c85b1",
+    "Name": "Fruit Candy",
+    "Description": "Purus sit amet luctus venenatis lectus magna fringilla. Consectetur lorem donec massa sapien faucibus et molestie ac. Sagittis nisl rhoncus mattis rhoncus urna neque viverra.",
+    "Price": 388.22,
+    "ImageUrl": "\\Images\\fruitCandy2.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\fruitCandy2-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "a734fed3-87f9-4421-bab2-c79fe30bf362"
+  },
+  {
+    "Id": "5aebbb4a-d375-4a8d-a51d-209c993f905a",
+    "Name": "Another Assorted Fruit Candy",
+    "Description": "Ultrices vitae auctor eu augue ut. Leo vel fringilla est ullamcorper eget. A diam maecenas sed enim ut. Massa tincidunt dui ut ornare lectus. Nullam non nisi est sit amet facilisis magna.",
+    "Price": 264.56,
+    "ImageUrl": "\\Images\\fruitCandy3.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\fruitCandy3-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": true,
+    "CategoryId": "44426c84-c4f1-4cee-bbe0-ced83f53a222"
+  },
+  {
+    "Id": "d7a68d4b-94bc-44ee-9091-36524644bf9d",
+    "Name": "Assorted Gummy Candy",
+    "Description": "Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Molestie at elementum eu facilisis sed odio morbi quis commodo. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis.",
+    "Price": 977.77,
+    "ImageUrl": "\\Images\\gummyCandy.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\gummyCandy-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": true,
+    "CategoryId": "b56eecd5-3a6c-4803-a0d1-d91f29138c4c"
+  },
+  {
+    "Id": "3dea1706-24e4-4afa-b246-8b76bcd5009f",
+    "Name": "Another Assorted Gummy Candy",
+    "Description": "Posuere ac ut consequat semper viverra nam libero justo laoreet. Ultrices dui sapien eget mi proin sed libero enim. Etiam non quam lacus suspendisse faucibus interdum. Amet nisl suscipit adipiscing bibendum est ultricies integer quis.",
+    "Price": 431.32,
+    "ImageUrl": "\\Images\\gummyCandy2.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\gummyCandy2-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "6e005087-3094-43bf-8e56-e6bd7310dc0d"
+  },
+  {
+    "Id": "98047e75-b171-49e8-ade6-cb21565d3099",
+    "Name": "Gummy Candy",
+    "Description": "Ut ornare lectus sit amet est placerat in egestas. Iaculis nunc sed augue lacus viverra vitae. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Accumsan tortor posuere ac ut consequat semper viverra.",
+    "Price": 906.15,
+    "ImageUrl": "\\Images\\gummyCandy3.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\gummyCandy3-small.jpg",
+    "IsOnSale": true,
+    "IsInStock": false,
+    "CategoryId": "5e6fa335-0a3e-4695-9428-e4158cf673a2"
+  },
+  {
+    "Id": "7f452526-e43e-4dad-9cf1-63608ced71ef",
+    "Name": "Halloween Candy",
+    "Description": "Vitae congue eu consequat ac felis donec et odio. Tellus orci ac auctor augue mauris augue. Feugiat sed lectus vestibulum mattis ullamcorper velit sed. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sed pulvinar proin gravida hendrerit lectus a.",
+    "Price": 56.07,
+    "ImageUrl": "\\Images\\halloweenCandy.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\halloweenCandy-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "a734fed3-87f9-4421-bab2-c79fe30bf362"
+  },
+  {
+    "Id": "a098aa18-22c8-4f7d-95ed-a6a7c63edca5",
+    "Name": "Assorted Halloween Candy",
+    "Description": "Hac habitasse platea dictumst quisque sagittis purus sit. Dui nunc mattis enim ut. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.",
+    "Price": 732.81,
+    "ImageUrl": "\\Images\\halloweenCandy2.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\halloweenCandy2-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "44426c84-c4f1-4cee-bbe0-ced83f53a222"
+  },
+  {
+    "Id": "4a537a80-131c-479e-bd49-89b35bf932b9",
+    "Name": "Another Halloween Candy",
+    "Description": "Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Vulputate eu scelerisque felis imperdiet proin fermentum.",
+    "Price": 685.06,
+    "ImageUrl": "\\Images\\halloweenCandy3.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\halloweenCandy3-small.jpg",
+    "IsOnSale": true,
+    "IsInStock": true,
+    "CategoryId": "b56eecd5-3a6c-4803-a0d1-d91f29138c4c"
+  },
+  {
+    "Id": "cae1b12d-5598-46fd-a9a7-265715b71f8a",
+    "Name": "Hard Candy",
+    "Description": "Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Arcu cursus euismod quis viverra.",
+    "Price": 14.96,
+    "ImageUrl": "\\Images\\hardCandy.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\hardCandy-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "6e005087-3094-43bf-8e56-e6bd7310dc0d"
+  },
+  {
+    "Id": "47534f83-25d4-45ae-b873-1c6c07217598",
+    "Name": "Another Hard Candy",
+    "Description": "Blandit massa enim nec dui nunc mattis enim ut tellus. Duis at consectetur lorem donec massa sapien faucibus et. At auctor urna nunc id cursus metus. Ut enim blandit volutpat maecenas volutpat blandit.",
+    "Price": 550.40,
+    "ImageUrl": "\\Images\\hardCandy2.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\hardCandy2-small.jpg",
+    "IsOnSale": true,
+    "IsInStock": true,
+    "CategoryId": "5e6fa335-0a3e-4695-9428-e4158cf673a2"
+  },
+  {
+    "Id": "3c7ff6ae-eb1f-4c45-b033-4f7439e169a8",
+    "Name": "Best Hard Candy",
+    "Description": "Nisi lacus sed viverra tellus in. Morbi non arcu risus quis varius quam quisque id. Cras adipiscing enim eu turpis egestas. Tristique nulla aliquet enim tortor. Quisque id diam vel quam. Id faucibus nisl tincidunt eget nullam.",
+    "Price": 747.01,
+    "ImageUrl": "\\Images\\hardCandy3.jpg",
+    "ImageThumbnailUrl": "\\Images\\thumbnails\\hardCandy3-small.jpg",
+    "IsOnSale": false,
+    "IsInStock": false,
+    "CategoryId": "a734fed3-87f9-4421-bab2-c79fe30bf362"
+  }
+ 
+ ]

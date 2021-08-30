@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Core.deps.json
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Core.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\ref\CandyShop.Core.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Core.pdb
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Data.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Models.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Data.pdb
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\bin\Debug\net5.0\CandyShop.Models.pdb
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\ref\CandyShop.Core.dll
+C:\Users\hp\source\repos\DecagonTask\week8\CandyShop\CandyShop.Core\obj\Debug\net5.0\CandyShop.Core.pdb
